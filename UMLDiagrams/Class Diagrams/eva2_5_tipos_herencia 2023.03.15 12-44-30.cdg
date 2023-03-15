@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="eva2_5_tipos_herencia">
+  <ClassDiagramComponents>
+    <Class name="EVA2_5_TIPOS_HERENCIA" package="eva2_5_tipos_herencia" visibility="public" xPosition="450.0" yPosition="178.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
